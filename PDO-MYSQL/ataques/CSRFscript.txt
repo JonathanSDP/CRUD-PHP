@@ -1,0 +1,7 @@
+ejecuta acciones no esperadas para el usuario como modificar clave y demas sin permiso de otros usuarios
+para prevenirlo se utilizan los
+TOKEN que seria un elemento encriptado
+fulanito perez+fulanitoperez@gmail.com<-
+->aksdjkahwdkhasdeaksd
+se realizan con 
+md5()

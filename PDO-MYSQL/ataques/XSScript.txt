@@ -1,0 +1,6 @@
+XSS Attack cross site scripting
+
+<script>
+setInterval(function()){
+alert("Hacked!")}
+</script>
